@@ -36,7 +36,7 @@ Válassz tetszőleges :
 
 **Az első szintű címsor (általában főcím) stílusa**
 
-Középre igazított szöveg.
+- Középre igazított szöveg.
 
 
 **A cikk (fő tartalmi blokk) stílusa**:
@@ -51,23 +51,24 @@ Középre igazított szöveg.
 
 **A .szoveg osztályú konténer rácsos elrendezése**:
 
-helyezd el a tartalomat két egyenlő  szélességű oszlopban.
-10 pixeles hézag az elemek között.
+- helyezd el a tartalmat két egyenlő  szélességű oszlopban.
+- 10 pixeles hézag az elemek között.
 
 
 
 **A .szoveg osztályon belüli bekezdések**:
-Sorkizárt szöveg.
+
+- Sorkizárt szöveg.
 
 **A .szoveg osztályon belüli képek**:
 
-A kép szélessége 100%.
+- A kép szélessége 100%.
 
 
 # Reszponzivitás
 
-Az oldal  töréspontja 600px-nél legyen!
-Használj nagyobb betűméretet
-Az oldal szélessége 100% legyen!
-A navigáció menüpontjai kerüljenek egymás alá!
-A képek a szöveg alá kerüljenek. 
+- Az oldal  töréspontja 600px-nél legyen!
+- Használj nagyobb betűméretet
+- Az oldal szélessége 100% legyen!
+- A navigáció menüpontjai kerüljenek egymás alá!
+- A képek a szöveg alá kerüljenek. 
