@@ -1,15 +1,6 @@
-1. Műanyaghulladék ártalmatlanítása
-Európában a műanyaghulladékot leggyakrabban elégetik vagy energiává alakítják. 
-Ez csökkenti a hulladék mennyiségét, de környezeti kockázatokkal járhat.
 
 
-2. A műanyagszennyezés forrásai és hatásai
-A szennyezés iparból, közlekedésből, hulladékgazdálkodásból és elhasználódott berendezésekből származik. 
-A műanyag nem bomlik le biológiailag, hanem mikroműanyagokra esik szét, károsítva a tengeri élővilágot. 
-Lebomlása akár több százezer évig is tarthat.
-
-
-3. A műanyagokat hét fő kategóriába sorolják 
+A műanyagokat hét fő kategóriába sorolják 
 PET, 
 PE-HD, 
 PVC, 
@@ -19,7 +10,7 @@ PS és egyéb anyagok.
 Nem mindegyik újrahasznosítható.
 
 
-4. Újrahasznosítás folyamata:
+Újrahasznosítás folyamata
 Szétválogatás
 Tisztítás
 Előkezelés
