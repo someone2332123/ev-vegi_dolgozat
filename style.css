@@ -1,0 +1,62 @@
+body{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    background-color: limegreen;
+    
+}
+nav{
+    background-color: aqua;
+    padding: 1rem;
+}
+
+nav a{
+    color: blue;
+    text-decoration: none;
+    padding: 5px;
+    margin: 10px;
+    font-weight: bold;
+    display: grid;
+    grid-template-columns: 1fr;
+}
+a:hover{
+    background-color: aquamarine;
+}
+h1{
+    text-align: center;
+}
+article{
+max-width: 900px;
+margin:auto;
+padding-left: 1em;
+padding-right: 1em ;
+}
+
+section{
+    padding: 10pt;
+}
+
+.szoveg{
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    text-align: justify;
+
+}
+.szoveg img{
+    width: 100%;
+}
+@media screen and (max-width: 600px){
+    body{
+        font-size: larger;
+        width: 100%;
+    }
+    nav{
+        display: grid;
+        grid-template-columns:1fr ;
+        gap:10px;
+    }
+    nav a{
+        margin:auto;
+    }
+    .szoveg{
+        grid-template-columns: 1fr;
+    }
+}
